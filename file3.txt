@@ -1,1 +1,2 @@
 welcome
+git commit -m "file2 and file3 changed"
